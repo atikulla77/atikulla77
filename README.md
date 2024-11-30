@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/PcjygBj/WEB-DEVELOPER.gif)
+![MasterHead](https://exdotech.com/img/intro-carousel/big.jpg)
 
 
 
