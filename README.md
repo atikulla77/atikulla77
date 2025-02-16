@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGgt5ld8lmqaw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732973084445?e=1738195200&v=beta&t=Wj_GdqhKRzY5_3x6khsfMfF0XOvpMJ3v9LVQctkoRBI)
+![MasterHead](./WEB_DEVELOPER.gif)
 
 
 
