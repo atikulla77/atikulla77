@@ -1,7 +1,7 @@
 ![MasterHead](./kodify.png)
 
 
-
+ 
 <h1 align="center">Hi 👋, I'm Atikulla</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <br/>
