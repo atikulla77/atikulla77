@@ -31,9 +31,7 @@ In my professional journey, I've proudly served as a Front-end Technical Lead as
 <br/><br/>
 
 - ❤ I enjoy programming and sharing knowledge
-
 - 🌱 I’m currently learning **Backend**
-
 - 📫 How to reach me **atikulla345@gmail.com**
 
 ![Snake animation](https://github.com/HigorJardini/Higorjardini/blob/output/github-contribution-grid-snake.svg)
